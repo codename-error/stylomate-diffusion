@@ -98,7 +98,7 @@ python train.py \
 ```
 
 ## License
-Creative Commons Attribution 4.0 © 2025 Ifan Hakim
+[Creative Commons By-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) © 2025 Ifan Hakim
 
 📧 Contact
 For support: ifanhakm@gmail.com
