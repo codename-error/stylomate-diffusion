@@ -88,6 +88,7 @@ python train.py \
 ```
 
 ## Citation
+[By Seunghwan Choi, Sunghyun Park, Minsoo Lee, Jaegul Choo](https://github.com/shadow2496/VITON-HD?tab=readme-ov-file)
 ```
 @inproceedings{choi2021viton,
   title={VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization},
