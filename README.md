@@ -87,6 +87,14 @@ python train.py \
   --save_freq 10
 ```
 
+## Citation
+@inproceedings{choi2021viton,
+  title={VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization},
+  author={Choi, Seunghwan and Park, Sunghyun and Lee, Minsoo and Choo, Jaegul},
+  booktitle={Proc. of the IEEE conference on computer vision and pattern recognition (CVPR)},
+  year={2021}
+}
+
 ## License
 Creative Commons Attribution 4.0 © 2025 Ifan Hakim
 
